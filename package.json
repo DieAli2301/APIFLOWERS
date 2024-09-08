@@ -1,0 +1,14 @@
+{
+  "name": "florista-api",
+  "version": "1.0.0",
+  "description": "API Restful para la gestión de catálogo y pedidos de un emprendimiento de floristería",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node src/app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.2"
+  }
+}
